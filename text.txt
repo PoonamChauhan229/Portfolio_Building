@@ -62,11 +62,19 @@ JS:
 🌕Whack a Mole
     Link:
     Code:
-    
+
 🌕Pagination
     Link:https://poonamchauhan229.github.io/19Pagination_JS/
     Code:https://github.com/PoonamChauhan229/19Pagination_JS
 
-🌕🌕🌕🌕🌕🌕
+🌕Space Inavder
+    Link:https://poonamchauhan229.github.io/14Space_Invaders_JS/
+    Code:https://github.com/PoonamChauhan229/14Space_Invaders_JS
+
+🌕Basic Quiz App
+    Link:https://poonamchauhan229.github.io/17Basic_Quiz-App/
+    Code:https://github.com/PoonamChauhan229/17Basic_Quiz-App
+    
+🌕🌕🌕🌕
 
    
